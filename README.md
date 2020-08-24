@@ -1,4 +1,4 @@
 # SparkAR_EarTracking
 Ear accessary effect in SparkAR
 
-![Sample](/images/sample.jpg)
+<img src="/images/sample.jpg" width="300px">
